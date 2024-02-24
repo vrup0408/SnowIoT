@@ -25,9 +25,6 @@
 
 
 <hr>
-<b>Tools and Technologies used: </b> <i>Android Studio, Java, XML, News-API and Google-Search</i>
-
-<hr>
 <b>❤️ Found this project useful?</b>
 <p>If you found this project useful, then please consider giving it a "⭐" on GitHub and sharing it with your friends via social media.</p>
 
